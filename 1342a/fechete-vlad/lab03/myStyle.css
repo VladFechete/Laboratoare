@@ -1,0 +1,44 @@
+#primul {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14pt;
+    color: blue;
+}
+
+#doilea {
+    font-family: Arial, sans-serif;
+    font-size: 12pt;
+    color: red;
+}
+
+#treilea {
+    font-family: 'Times New Roman', serif;
+    font-size: 12pt;
+    color: green;
+}
+
+#patrulea {
+    background-color: yellow;
+    font-family: Calibri, sans-serif;
+    font-size: 12pt;
+    color: blue;
+}
+
+#cincilea {
+    font-style: italic;
+}
+
+#saselea {
+    background-color: blue;
+    font-family: Arial, sans-serif;
+    font-size: 10pt;
+    color: white;
+}
+
+#saptelea {
+    font-variant: small-caps;
+}
+
+#optulea {
+    color: white;
+    background-color: black;
+}
